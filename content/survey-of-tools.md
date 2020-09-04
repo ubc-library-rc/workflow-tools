@@ -19,6 +19,7 @@ The below list is by no means comprehensive and is meant to introduce you to a f
 ## General workflow tools
 
 [OSF](https://osf.openscience.ubc.ca/)
+
 <img src="images/osf-logo.png" alt="OSF logo" width="100px" height="auto">
 
   * The OSF is a powerful and flexible interdisciplinary workflow management tool.
@@ -33,6 +34,7 @@ The below list is by no means comprehensive and is meant to introduce you to a f
 ## Task tracking and project overviews
 
 [Asana](https://app.asana.com/)
+
 <img src="images/asana-logo.png" alt="Asana logo" width="100px" height="auto">
 
   * Project management tool which can be used as a personal to-do list.
@@ -44,6 +46,7 @@ The below list is by no means comprehensive and is meant to introduce you to a f
   * [Take a look at this excellent Youtube Playlist courtesy of the folks at Asana](https://www.youtube.com/playlist?list=PLJFG93oi0wJDMccrrEbbZha0v64Jo63K8)
 
 [Trello](https://trello.com/)
+
 <img src="images/trello-logo.png" alt="Trello logo" width="100px" height="auto">
 
   * Project management tool which can be used as a personal to-do list.  
@@ -98,6 +101,7 @@ The below list is by no means comprehensive and is meant to introduce you to a f
 ## Storage for files you're regularly updating
 
 OSF (again)
+
 <img src="images/osf-logo.png" alt="OSF logo" width="100px" height="auto">
 
   * Lots of integrations for file storage providers via [OSF Add-Ons](https://www.cos.io/blog/osf-add-ons-help-you-maximize-research-data-storage-and-accessibility)
@@ -105,12 +109,14 @@ OSF (again)
   * Hosting of data uploaded to a project is on Canadian servers (in Montreal) but some data about the project (eg. project metadata and information about project collaborators) is stored on US servers.
 
 [OneDrive](https://it.ubc.ca/services/web-servers-storage/microsoft-onedrive)
+
 <img src="images/onedrive-logo.png" alt="OneDrive logo" width="100px" height="auto">
 
   * Unlimited cloud storage available for free to UBC faculty, staff, and students as part of the Microsoft suite.
   * UBC IT offers support.
 
 [Box](https://www.box.com)
+
 <img src="images/box-logo.png" alt="Box logo" width="100px" height="auto">
 
   * Unlimited file storage and no file type limitations.
