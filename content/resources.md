@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Survey of tools
+title: Resources
 nav_order: 10
 ---
 
@@ -8,4 +8,4 @@ nav_order: 10
 
 ## Tools mentioned in this workshop
 
-## Further reading
+## Further exploration
