@@ -8,7 +8,7 @@ nav_order: 4
 
 View slides here
 
-One major consideration is whether a tool is hosted in Canada. If a tool is hosted. This information is usually found in terms of service under a section that explicitly addresses "storage" or "data privacy". Make sure you are aware of the risks.
+One major consideration is whether a tool is hosted in Canada. This information is usually found in terms of service under a section that explicitly addresses "storage" or "data privacy". Make sure you are aware of the risks.
 
 If a tool keeps data on US servers and does not have Canadian hosting options, do not share sensitive information using the tool.
 * [This is what personally identifiable information is](https://isit.arts.ubc.ca/personally-identifiable-information).
@@ -18,7 +18,7 @@ The below list is by no means comprehensive and is meant to introduce you to a f
 
 ## General workflow tools
 
-![OSF logo](/content/images/osf-logo.png =250x)
+![OSF logo](images/osf-logo.png)
 * [OSF](https://osf.openscience.ubc.ca/)
   * The OSF is a powerful and flexible interdisciplinary workflow management tool.
   * UBC has OSF for institutions which means that UBC-affiliated OSF projects are brought together on a UBC landing page. You can also use your UBC credentials to log in to this tool.
@@ -31,7 +31,7 @@ The below list is by no means comprehensive and is meant to introduce you to a f
 
 ## Task tracking and project overviews
 
-![Asana logo](/content/images/asana-logo.png =250x)
+![Asana logo](images/asana-logo.png =250x)
 * [Asana](https://app.asana.com/)
   * Project management tool which can be used as a personal to-do list.
   * Free "limited" version is free indefinitely and fairly flexible.
