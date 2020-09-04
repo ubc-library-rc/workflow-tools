@@ -19,6 +19,7 @@ The below list is by no means comprehensive and is meant to introduce you to a f
 ## General workflow tools
 
 ![OSF logo](images/osf-logo.png)
+
 * [OSF](https://osf.openscience.ubc.ca/)
   * The OSF is a powerful and flexible interdisciplinary workflow management tool.
   * UBC has OSF for institutions which means that UBC-affiliated OSF projects are brought together on a UBC landing page. You can also use your UBC credentials to log in to this tool.
