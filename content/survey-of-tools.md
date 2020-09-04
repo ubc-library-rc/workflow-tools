@@ -18,7 +18,7 @@ The below list is by no means comprehensive and is meant to introduce you to a f
 
 ## General workflow tools
 
-![OSF logo](images/osf-logo.png | width=100)
+<img src="images/osf-logo.png" alt="OSF logo" width="100px" height="auto">
 
 * [OSF](https://osf.openscience.ubc.ca/)
   * The OSF is a powerful and flexible interdisciplinary workflow management tool.
