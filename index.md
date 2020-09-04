@@ -21,11 +21,10 @@ At the end of this workshop, you will be able to:
 
 ## Schedule
 
-| 0:00 | Introduction and overview |
-| 0:15 | Selecting a tool |  
-| 0:30 | Survey of common Tools |   
-| 1:00 |  |  
-| 1:25 | Wrap-up |   
+| 0:00 | Welcome and using Zoom|
+| 0:05 | Introduction |  
+| 0:25 | Survey of Tools |  
+| 1:20 | Wrap-up and Discussion |   
 
 ### What is this workshop not about?
 
