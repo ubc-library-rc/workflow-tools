@@ -32,7 +32,7 @@ The below list is by no means comprehensive and is meant to introduce you to a f
 
 ## Task tracking and project overviews
 
-![Asana logo](images/asana-logo.png)
+<img src="images/asana-logo.png" alt="Asana logo" width="100px" height="auto">
 
 * [Asana](https://app.asana.com/)
   * Project management tool which can be used as a personal to-do list.
@@ -43,7 +43,7 @@ The below list is by no means comprehensive and is meant to introduce you to a f
   * Information is hosted on US servers.
   * Take a look at this excellent Youtube Playlist courtesy of the folks at Asana: https://www.youtube.com/playlist?list=PLJFG93oi0wJDMccrrEbbZha0v64Jo63K8
 
-![Trello logo](images/trello-logo.png)
+<img src="images/trello-logo.png" alt="Trello logo" width="100px" height="auto">
 
 * [Trello](https://trello.com/)
   * Project management tool which can be used as a personal to-do list.  
@@ -55,14 +55,14 @@ The below list is by no means comprehensive and is meant to introduce you to a f
 
 ## Chatting with your team
 
-![Microsoft Teams logo](images/teams-logo.png)
+<img src="images/teams-logo.png" alt="Teams logo" width="100px" height="auto">
 
 * [Microsoft Teams](https://it.ubc.ca/services/email-voice-internet/microsoft-teams)
   * Free for UBC students, faculty, and staff).
   * UBC IT offers support with Teams.
   * Integrated with Microsoft Office suite.
 
-![Slack logo](images/slack-logo.png)
+<img src="images/slack-logo.png" alt="Slack logo" width="100px" height="auto">
 
 * [Slack](https://slack.com/intl/en-ca/)
   * Chat tool for teams, not supported by UBC IT.
@@ -72,7 +72,7 @@ The below list is by no means comprehensive and is meant to introduce you to a f
 
 ## Version control
 
-![Git logo](images/git-logo.png)
+<img src="images/git-logo.png" alt="Git logo" width="100px" height="auto">
 
 * Git
   * Git is a version control tool that is the backbone of services like Github and GitLab.
@@ -80,7 +80,7 @@ The below list is by no means comprehensive and is meant to introduce you to a f
   * Git provides line by line versioning for text files, showing edits made, who made them, and when.
   * Works best with text files.
 
-![Github logo](images/github-logo.png)
+<img src="images/github-logo.png" alt="GitHub logo" width="100px" height="auto">
 
   * GitHub
     * Owned by Microsoft.
@@ -90,7 +90,7 @@ The below list is by no means comprehensive and is meant to introduce you to a f
     * Github is designed to work with text files. This means files under 100MB (works best with files under 50mb). As a result it is not for large file storage.
       * That said, Github does offer a separate service called Github large file storage. This storage is not intended for research data or sensitive data and is on US servers.
 
-![Gitlab logo](images/gitlab-logo.png)
+<img src="images/gitlab-logo.png" alt="GitLab logo" width="100px" height="auto">
 
   * GitLab
     * Open Source tool for the use of Git, similar to Github.
@@ -98,20 +98,20 @@ The below list is by no means comprehensive and is meant to introduce you to a f
 
 ## File storage
 
-![OSF logo](images/osf-logo.png)
+<img src="images/osf-logo.png" alt="OSF logo" width="100px" height="auto">
 
 * OSF
   * Lots of integrations for file storage providers via [OSF Add-Ons](https://www.cos.io/blog/osf-add-ons-help-you-maximize-research-data-storage-and-accessibility)
   * Unlimited total storage; individual files can be up to 5GB
   * Hosting of data uploaded to a project is on Canadian servers (in Montreal) but some data about the project (eg. project metadata and information about project collaborators) is stored on US servers.
 
-![OneDrive logo](images/onedrive-logo.png)
+<img src="images/onedrive-logo.png" alt="OneDrive logo" width="100px" height="auto">
 
 * [OneDrive](https://it.ubc.ca/services/web-servers-storage/microsoft-onedrive)
   * Unlimited cloud storage available for free to UBC faculty, staff, and students as part of the Microsoft suite.
   * UBC IT offers support.
 
-![Box logo](images/box-logo.png)
+<img src="images/box-logo.png" alt="Box logo" width="100px" height="auto">
 
 * [Box](https://www.box.com)
   * Unlimited file storage and no file type limitations.

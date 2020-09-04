@@ -28,6 +28,6 @@ At the end of this workshop, you will be able to:
 
 ### What is this workshop not about?
 
-While this workshop focuses on digital tools there are some great partner tools you might want to look into as well such as the "Bullet journal" or the "Everything notebook". We also won't go into project management methodologies or citation management tools.
+While this workshop focuses on digital tools there are some great partner tools you might want to look into as well such as the "<a href="https://bulletjournal.com/">Bullet journal</a>" or the "<a href="http://www.raulpacheco.org/2016/08/starting-up-and-maintaining-an-everything-notebook/">Everything notebook</a>". We also won't go into project management methodologies or citation management tools.
 
 For support with project and citation management consider booking a consult or attending one of our other workshops.
