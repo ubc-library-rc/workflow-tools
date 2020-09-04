@@ -19,11 +19,6 @@ At the end of this workshop, you will be able to:
 1. Identify a few common tools and what they are for.
 2. Articulate the big questions to ask when exploring a new tool.
 
-- describe what web scraping is
-- identify cases when web scraping may be useful
-- use one method to scrape content from the web
-- do basic cleaning on scraped output
-
 ## Schedule
 
 | 0:00 | Introduction and overview |
