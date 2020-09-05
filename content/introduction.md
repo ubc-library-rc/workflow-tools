@@ -12,7 +12,7 @@ View slides here
 
 Over the past few decades academic workflows have grown increasingly digital. Even if the crux of the work that you do is not digital in nature, the tools that you use to get it done are likely digital. The [101 innovations in scholarly communications](https://101innovations.wordpress.com/workflows/) project has been tracking the rise in new and digital modes of working in the research workflow which and is worth exploring if you are interested in seeing how these digital workflows play out for different disciplines and types of work.
 
-With this proliferation of tools it can be hard to know what to use when and how to organise the many tools and filetypes that feature in your workflow. This workshop content focuses on project-based work but many tools can be used individually or with a group.
+With this proliferation of tools it can be hard keep track of work scattered across many tools. This workshop introduces a few flexible tools to be aware of when organising how you work. The focus is on project-based work but many tools can be used individually or with a group.
 
 ## Common organising principles
 
