@@ -9,10 +9,17 @@ nav_order: 4
 View slides here
 
 Jump to a tool:
-OSF
-Asana
-Trello
-JIRA and Confluence
+* OSF
+* Asana
+* Trello
+* JIRA
+* Teams
+* Slack
+* Git
+* GitHub
+* GitLab
+* OneDrive
+* Box
 
 One major consideration is whether a tool is hosted in Canada. This information is usually found in terms of service under a section that explicitly addresses "storage" or "data privacy". Make sure you are aware of the risks.
 
@@ -24,6 +31,7 @@ The below list is by no means comprehensive and is meant to introduce you to a f
 
 ## General workflow tools
 
+<hr>
 [OSF](https://osf.openscience.ubc.ca/)
 
 <img src="images/osf-logo.png" alt="OSF logo" width="100px" height="auto">
@@ -39,6 +47,7 @@ The below list is by no means comprehensive and is meant to introduce you to a f
 
 ## Task tracking and project overviews
 
+<hr>
 [Asana](https://app.asana.com/)
 
 <img src="images/asana-logo.png" alt="Asana logo" width="100px" height="auto">
@@ -51,6 +60,7 @@ The below list is by no means comprehensive and is meant to introduce you to a f
   * Information is hosted on US servers.
   * [Take a look at this excellent Youtube Playlist courtesy of the folks at Asana](https://www.youtube.com/playlist?list=PLJFG93oi0wJDMccrrEbbZha0v64Jo63K8)
 
+<hr>
 [Trello](https://trello.com/)
 
 <img src="images/trello-logo.png" alt="Trello logo" width="100px" height="auto">
@@ -63,6 +73,7 @@ The below list is by no means comprehensive and is meant to introduce you to a f
   * Information is hosted on US servers.
   * [Learn More with this excellent playlist from Trello](https://www.youtube.com/playlist?list=PL4H_oPRK80z5Rq0aBNxeeS5sVPyDrNXCh)
 
+<hr>
 [JIRA]()
 
 <img src="images/jira-logo.png" alt="JIRA logo" width="100px" height="auto">
@@ -72,6 +83,7 @@ The below list is by no means comprehensive and is meant to introduce you to a f
 
 ## Chatting with your team
 
+<hr>
 [Microsoft Teams](https://it.ubc.ca/services/email-voice-internet/microsoft-teams)
 
 <img src="images/teams-logo.png" alt="Teams logo" width="100px" height="auto">
@@ -79,6 +91,7 @@ The below list is by no means comprehensive and is meant to introduce you to a f
   * UBC IT offers support with Teams.
   * Integrated with Microsoft Office suite.
 
+<hr>
 [Slack](https://slack.com/intl/en-ca/)
 
 <img src="images/slack-logo.png" alt="Slack logo" width="100px" height="auto">
