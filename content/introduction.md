@@ -35,10 +35,13 @@ Alone or in a group, chances are you need some sort of:
 * Plan how you will use the tools you adopt before you adopt them.
 * Make sure it's possible to back up and export your information from any tool you choose to use.
 * If working on a team, make sure you establish who is responsible for what part of the project; no tool will do this for you.
-* Develop a consistent file naming system.
+* Develop a <a href="https://researchdata.library.ubc.ca/plan/organize-your-data/">consistent and useful file naming system</a>.
+* Use <a href="https://researchdata.library.ubc.ca/plan/format-your-data/">flexible and appropriate file formats</a>.
 * When using tags, keep it simple. Good tags might be:
   * todo, doing, done
   * do first, do next
   * task, event, deadline
 * Set meaningful tasks
 * Use templates when available
+
+If you are looking for support with research data management, consider attending workshops in our Research Data Management series or scheduling a consult here: 
