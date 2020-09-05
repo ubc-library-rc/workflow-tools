@@ -4,7 +4,7 @@ title: Introduction
 nav_order: 2
 ---
 
-# Digital Tools for project and workflow management
+# Introduction
 
 View slides here
 
@@ -44,4 +44,4 @@ Alone or in a group, chances are you need some sort of:
 * Set meaningful tasks
 * Use templates when available
 
-If you are looking for support with research data management, consider attending workshops in our Research Data Management series or scheduling a consult here: 
+If you are looking for support with research data management, consider attending workshops in our Research Data Management series or scheduling a consult here:
