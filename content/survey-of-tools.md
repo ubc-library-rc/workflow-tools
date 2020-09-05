@@ -115,7 +115,7 @@ OSF (again)
   * Unlimited cloud storage available for free to UBC faculty, staff, and students as part of the Microsoft suite.
   * UBC IT offers support.
 
-[Box](https://www.box.com)
+####[Box](https://www.box.com)
 
 <img src="images/box-logo.png" alt="Box logo" width="100px" height="auto">
 
