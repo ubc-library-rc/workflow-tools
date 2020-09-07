@@ -11,7 +11,8 @@ This workshop will go over common digital tools that help with project managemen
 
 This is a [UBC Library Research Commons workshop](https://researchcommons.library.ubc.ca) and part of the Digital Toolkit series.
 
-For more information about [upcoming workshops](https://researchcommons.library.ubc.ca/events/) and to view [our open workshop content](https://researchcommons.library.ubc.ca/oer/) find us at https://researchcommons.library.ubc.ca.
+For more information about [upcoming workshops](https://researchcommons.library.ubc.ca/events/) and to view [our open workshop content](https://researchcommons.library.ubc.ca/oer/) find us at <a href=
+https://researchcommons.library.ubc.ca">https://researchcommons.library.ubc.ca</a>.
 
 ## Goal of this workshop
 
@@ -28,6 +29,6 @@ At the end of this workshop, you will be able to:
 
 ### What is this workshop not about?
 
-While this workshop focuses on digital tools there are some great partner tools you might want to look into as well such as the "<a href="https://bulletjournal.com/">Bullet journal</a>" or the "<a href="http://www.raulpacheco.org/2016/08/starting-up-and-maintaining-an-everything-notebook/">Everything notebook</a>". We also won't go into project management methodologies or citation management tools.
+While this workshop focuses on digital tools there are some great partner tools you might want to look into as well such as the "<a href="https://bulletjournal.com/">Bullet Journal</a>" or the "<a href="http://www.raulpacheco.org/2016/08/starting-up-and-maintaining-an-everything-notebook/">Everything notebook</a>". We also won't go into project management methodologies or citation management tools.
 
-For support with project and citation management consider booking a consult or attending one of our other workshops.
+For support with project and citation management consider <a href="https://researchcommons.library.ubc.ca/consultation-requests/">booking a consult</a>.

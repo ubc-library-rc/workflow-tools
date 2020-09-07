@@ -32,7 +32,7 @@ Alone or in a group, chances are you need some sort of:
 
 ### Consider best practices when organising your work
 
-* Plan how you will use the tools you adopt before you adopt them.
+* Plan how you will use the tools you adopt before you adopt them. Consider creating a mind map to step through all of the parts of your project.
 * Make sure it's possible to back up and export your information from any tool you choose to use.
 * If working on a team, make sure you establish who is responsible for what part of the project; no tool will do this for you.
 * Develop a <a href="https://researchdata.library.ubc.ca/plan/organize-your-data/">consistent and useful file naming system</a>.
@@ -44,4 +44,4 @@ Alone or in a group, chances are you need some sort of:
 * Set meaningful tasks
 * Use templates when available
 
-If you are looking for support with research data management, consider attending workshops in our Research Data Management series or scheduling a consult here:
+If you are looking for support with research data management, consider attending workshops in our <a href="https://libcal.library.ubc.ca/calendar/vancouver/?t=g&q=RDM&cid=7544&cal=7544&inc=0">Research Data Management series</a> or <a href="https://researchcommons.library.ubc.ca/consultation-requests/">schedule a consult</a>.
