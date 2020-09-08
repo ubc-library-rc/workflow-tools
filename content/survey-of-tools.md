@@ -6,8 +6,6 @@ nav_order: 4
 
 # Survey of tools
 
-View slides here
-
 One major consideration is whether a tool is hosted in Canada. This information is usually found in terms of service under a section that explicitly addresses "storage" or "data privacy". Make sure you are aware of the risks.
 
 If a tool keeps data on US servers and does not have Canadian hosting options, do not share sensitive information using the tool.
@@ -15,19 +13,6 @@ If a tool keeps data on US servers and does not have Canadian hosting options, d
 * Always follow <a href="https://universitycounsel.ubc.ca/subject-areas/access-and-privacy-general/useful-resources/">these guidelines from University Counsel</a>.
 
 The below list is by no means comprehensive and is meant to introduce you to a few tools that may be useful for your work.
-
-Jump to a tool:
-* OSF
-* Asana
-* Trello
-* JIRA
-* Teams
-* Slack
-* Git
-* GitHub
-* GitLab
-* OneDrive
-* Box
 
 <hr>
 ## General workflow tools
@@ -72,12 +57,17 @@ Jump to a tool:
   * Information is hosted on US servers.
   * [Learn More with this excellent playlist from Trello](https://www.youtube.com/playlist?list=PL4H_oPRK80z5Rq0aBNxeeS5sVPyDrNXCh)
 
-[JIRA]()
+[JIRA](https://www.atlassian.com/software/jira/free)
 
 <img src="images/jira-logo.png" alt="JIRA logo" width="100px" height="auto">
 
-*
-*
+* Ticketing and task management system for projects
+* Works well with Agile approach
+* Free option is free forever but limited in storage and number of users
+* Hosted in the US (through AWS)
+* Integrates well with Trello for visual task tracking and Confluence for notes and documentation (all are Atlassian products)
+
+[Basecamp](https://basecamp.com/pricing)
 
 <hr>
 ## Chatting with your team

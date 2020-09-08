@@ -5,8 +5,7 @@ nav_order: 2
 ---
 
 # Introduction
-
-View slides here
+<em><a href="../slides/introduction.html" target="_blank">View slides</a> for this section</em>
 
 ## Rise in number of digital tools
 
@@ -23,12 +22,12 @@ While this workshop will not delve deeply into these structures it is worth bein
 ## Elements of a workflow
 Everyone works differently but some broad strokes apply when talking about the needs of a project. However you work chances are you have deadlines, tasks, and outputs.
 
-Alone or in a group, chances are you need some sort of:
+Alone or in a group, chances are you need:
 * Task tracking
 * File tracking (location and version)
 * Project overviews
-* Communication
-* Ability to wrap up a project (via export or by transferring ownership)
+* Ways to communicate with others
+* The ability to wrap up a project (via export or by transferring ownership)
 
 ### Consider best practices when organising your work
 
