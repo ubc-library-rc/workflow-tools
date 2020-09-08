@@ -39,7 +39,7 @@ The below list is by no means comprehensive and is meant to introduce you to a f
 
   * Project management tool which can be used as a personal to-do list.
   * Free "limited" version is free indefinitely and fairly flexible.
-    * Limited number of collaborators
+    * Limited number of collaborators (15)
     * Limited ways to view tasks: list, calendar, and KanBan board (todo, doing, done columns)
   * Can have many inter-related projects.
   * Information is hosted on US servers.
@@ -66,8 +66,6 @@ The below list is by no means comprehensive and is meant to introduce you to a f
 * Free option is free forever but limited in storage and number of users
 * Hosted in the US (through AWS)
 * Integrates well with Trello for visual task tracking and Confluence for notes and documentation (all are Atlassian products)
-
-[Basecamp](https://basecamp.com/pricing)
 
 <hr>
 ## Chatting with your team
