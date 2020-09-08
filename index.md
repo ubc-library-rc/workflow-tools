@@ -3,15 +3,13 @@ layout: default
 title: Outline
 nav_order: 1
 ---
-## Note: this workshop is in development and not yet complete.
-
 # Digital tools for workflow and project management
 
 This workshop will go over common digital tools that help with project management, task management, and collaboration.
 
-This is a [UBC Library Research Commons workshop](https://researchcommons.library.ubc.ca) and part of the Digital Toolkit series.
+This workshop is part of the <a href="https://libcal.library.ubc.ca/calendar/vancouver/?t=g&q=Digital%20toolkit&cid=7544&cal=7544&inc=0">Digital Toolkit series</a> co-presented by the <a href="https://researchcommons.library.ubc.ca/">UBC Library Research Commons at UBC-V</a>  and <a href="https://library.ok.ubc.ca/">UBC-O Library</a>. 
 
-For more information about [upcoming workshops](https://researchcommons.library.ubc.ca/events/) and to view [our open workshop content](https://researchcommons.library.ubc.ca/oer/) find us at <a href=
+For more information about [upcoming workshops](https://researchcommons.library.ubc.ca/events/) and to view [our open workshop content](https://researchcommons.library.ubc.ca/oer/) find us at <a href="
 https://researchcommons.library.ubc.ca">https://researchcommons.library.ubc.ca</a>.
 
 ## Goal of this workshop
