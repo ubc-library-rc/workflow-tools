@@ -37,7 +37,6 @@ nav_order: 10
 
 * [Formatting your data](https://researchdata.library.ubc.ca/plan/format-your-data/)
 * [Naming files](https://researchdata.library.ubc.ca/plan/organize-your-data/)
-
 * [Privacy Guidance from University Counsel](https://universitycounsel.ubc.ca/subject-areas/access-and-privacy-general/useful-resources/)
 
 ## Getting help
