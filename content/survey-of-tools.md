@@ -23,7 +23,8 @@ The below list is by no means comprehensive and is meant to introduce you to a f
 
   * The OSF is a powerful and flexible interdisciplinary workflow management tool.
   * UBC has OSF for institutions which means that UBC-affiliated OSF projects are brought together on a UBC landing page. You can also use your UBC credentials to log in to this tool.
-  * OSF has unlimited overall project storage but individual files and objects need to be under 5GB in size. For larger items, OSF has many integrations with storage providers.
+  * OSF has limited project storage and individual files and objects need to be under 5GB in size. For larger items, OSF has many integrations with storage providers.
+    * Good run-down of [storage caps by provider](https://help.osf.io/hc/en-us/articles/360019737894-FAQs#what-is-the-cap-on-data-per-user-or-per-project).
   * OSF allows for granular management of access to parts of an objects via "Components" feature.
   * Files uploaded to OSF are hosted on Canadian servers (if that option is selected while creating a repository).
   * Collaborators do not need to be at UBC to be added to a project and different "Components" can be hosted in different places (eg. other countries).
