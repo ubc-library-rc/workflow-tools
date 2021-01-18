@@ -23,7 +23,7 @@ The below list is by no means comprehensive and is meant to introduce you to a f
 
   * The OSF is a powerful and flexible interdisciplinary workflow management tool.
   * UBC has OSF for institutions which means that UBC-affiliated OSF projects are brought together on a UBC landing page. You can also use your UBC credentials to log in to this tool.
-  * OSF has limited project storage and individual files and objects need to be under 5GB in size. For larger items, OSF has many integrations with storage providers.
+  * OSF has limited project storage of 5GB for private projects and 50GB for public projects. Individual files and objects need to be under 5GB in size. For larger items, OSF has many integrations with storage providers.
     * Good run-down of [storage caps by provider](https://help.osf.io/hc/en-us/articles/360019737894-FAQs#what-is-the-cap-on-data-per-user-or-per-project).
   * OSF allows for granular management of access to parts of an objects via "Components" feature.
   * Files uploaded to OSF are hosted on Canadian servers (if that option is selected while creating a repository).
@@ -110,7 +110,7 @@ Why is version control important? Learn more here:
   * Free to use with some constraints.
   * Free web hosting through Github Pages which runs off of a Github repository.
   * Github is designed to work with text files. This means files under 100MB (works best with files under 50mb). As a result it is not for large file storage.
-    * That said, Git does have provision for large file storage through <a href="https://git-lfs.github.com/">"git-lfs"</a>. In the context of Github this means that you can now push files <a href="https://docs.github.com/en/github/managing-large-files/about-git-large-file-storage">up to 2GB in side with a free Github account</a>. This is not ideal for storing research data but is useful for large live files that you are working with.
+    * That said, Git does have provision for large file storage through <a href="https://git-lfs.github.com/">"git-lfs"</a>. In the context of Github this means that you can now push files <a href="https://docs.github.com/en/github/managing-large-files/about-git-large-file-storage">up to 2GB in side with a free Github account</a>. This is not ideal for storing research data but is useful for large live text files that you are working with.
     * Github has a web hosting service called Github Pages through which you can publish a simple website. Git LFS does not work with Github Pages.
 
 [GitLab](https://about.gitlab.com/)

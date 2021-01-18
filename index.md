@@ -7,7 +7,7 @@ nav_order: 1
 
 This workshop will go over common digital tools that help with project management, task management, and collaboration.
 
-This workshop is part of the <a href="https://libcal.library.ubc.ca/calendar/vancouver/?t=g&q=Digital%20toolkit&cid=7544&cal=7544&inc=0">Digital Toolkit series</a> co-presented by the <a href="https://researchcommons.library.ubc.ca/">UBC Library Research Commons at UBC-V</a>  and <a href="https://library.ok.ubc.ca/">UBC-O Library</a>. 
+This workshop is part of the <a href="https://libcal.library.ubc.ca/calendar/vancouver/?t=g&q=Digital%20toolkit&cid=7544&cal=7544&inc=0">Digital Toolkit series</a> presented by the <a href="https://researchcommons.library.ubc.ca/">UBC Library Research Commons at UBC-V</a>.
 
 For more information about [upcoming workshops](https://researchcommons.library.ubc.ca/events/) and to view [our open workshop content](https://researchcommons.library.ubc.ca/oer/) find us at <a href="
 https://researchcommons.library.ubc.ca">https://researchcommons.library.ubc.ca</a>.
