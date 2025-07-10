@@ -38,8 +38,3 @@ nav_order: 10
 * [Formatting your data](https://researchdata.library.ubc.ca/plan/format-your-data/)
 * [Naming files](https://researchdata.library.ubc.ca/plan/organize-your-data/)
 * [Privacy Guidance from University Counsel](https://universitycounsel.ubc.ca/subject-areas/access-and-privacy-general/useful-resources/)
-
-## Getting help
-
-* [Consults with the Research Commons (UBC-V)](https://researchcommons.library.ubc.ca/consultation-requests/)
-* [Consults with the Center for Scholarly Communication (UBC-O)](https://library.ok.ubc.ca/research/csc/)
