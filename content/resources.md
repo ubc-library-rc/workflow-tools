@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Resources
+title: Tools
 nav_order: 10
 ---
 
-# Resources
+# Tools and Resources
 
 ## Tools mentioned in this workshop
 
