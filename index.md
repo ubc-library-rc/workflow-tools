@@ -3,7 +3,7 @@ layout: default
 title: Outline
 nav_order: 1
 ---
-# Digital tools for workflow and project management
+# Digital Tools for Workflow and Project Management
 
 This workshop will go over common digital tools that help with project management, task management, and collaboration.
 
